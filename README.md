@@ -18,7 +18,7 @@ Click here for \[Report](https://github.com/annesartori1/Centenarian-parent-grow
 
 
 
-Click here for \[Script](https://github.com/annesartori1/ICV-and-complications-of-surgery/blob/main/script/Centenarian_parent_TICS.Rmd). 
+Click here for \[Script](https://github.com/annesartori1/Centenarian-parent-growth-of-TICS/blob/main/script/Centenarian_parent_TICS.Rmd). 
 
 
 
