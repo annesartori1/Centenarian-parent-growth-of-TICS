@@ -14,11 +14,11 @@ Our report aims to understand the association between having a centenarian paren
 
 
 
-Click here for \[Report](https://github.com/annesartori1/Centenarian-parent-growth-of-TICS/blob/main/report/Centenarian_parent_growth_TICS.pdf).  
+Click here for \[Report](https://github.com/annesartori1/Centenarian-parent-growth-of-TICS/blob/main/report/Centenarian_parent_growth_TICS.docx).  
 
 
 
-Click here for \[Script](https://github.com/annesartori1/ICV-and-complications-of-surgery/blob/main/script/Centenarian_parent_TICS). 
+Click here for \[Script](https://github.com/annesartori1/ICV-and-complications-of-surgery/blob/main/script/Centenarian_parent_TICS.Rmd). 
 
 
 
