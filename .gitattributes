@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Force RMarkdown files to be recognized as R
+*.Rmd linguist-language=R
